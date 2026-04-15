@@ -278,12 +278,18 @@ logging.basicConfig(
 - Never leave the robot unattended during operation
 - Verify waypoint positions are safe before use
 
+## Authors
+
+- Dr. Samuel Fearn
+- Mr. Tom Bennett
+- Dr. David Megson-Smith
+
 ## Support & Contributions
 
-For issues, questions, or contributions, please [add your contact/repository information].
+For issues, questions, or contributions, see: https://github.com/IAC-Robotics-and-Sensors/UR5e_with_robotiq_gripper_control
 
 ## References
 
-- [Universal Robots RTDE Documentation](https://www.universal-robots.com/articles/ur/software-architecture/)
-- [Robotiq Gripper Documentation](https://assets.robotiq.com/website-assets/Support_Documents/Documentation/Robotiq-Hand-E_User_Guide.pdf)
+- [Universal Robots RTDE Documentation](https://docs.universal-robots.com/tutorials/communication-protocol-tutorials/rtde-guide.html)
+- [Robotiq Gripper Documentation](https://assets.robotiq.com/website-assets/support_documents/document/Hand-E_Instruction_Manual_e-Series_PDF_20190122.pdf)
 - [ur-rtde Python Package](https://github.com/UniversalRobots/RTDE_Python_Client_Library)
