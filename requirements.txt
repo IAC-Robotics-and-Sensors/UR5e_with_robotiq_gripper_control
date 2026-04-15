@@ -1,0 +1,14 @@
+# UR5e Robot Control with Robotiq Gripper - Requirements
+
+# Universal Robots RTDE Interface
+ur-rtde>=1.6.2
+numpy
+
+# Standard library modules (included with Python, listed for reference)
+# tkinter - usually included with Python installation
+# socket - included with Python
+# threading - included with Python
+# time - included with Python
+# logging - included with Python
+# enum - included with Python
+# typing - included with Python
